@@ -8,9 +8,13 @@
 
 "Les Chaises Musicales" is a website for selling second-hand furniture, and even antiques, developed as part of a school collective project at **_Ada Tech School_**.
 
-![filtres](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/aa0e85d3-daa9-4748-872e-f83cf429e77b)
-![pageAdmin](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/a09f8fb4-e48b-4909-a71e-1a4ffec88dee)
-![pagesConnexionInscrption](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/12f2b52d-07c0-43d1-8cd0-ef419610f46b)
+
+![filtres](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/55ead9a9-d0e8-4660-9630-43c784b102fb)
+![pageDetailProduit](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/f3be1276-f440-4e1d-b19d-810fbb21e26a)
+![pageAdmin](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/76a03923-0cce-4703-a551-f56ed7035b06)
+![pagesConnexionInscription](https://github.com/adatechschool/projet-collectif-plateforme-de-meubles-leschaisesmusicales/assets/146881805/2ba786f0-88ff-419f-9de4-8cbf0c8e161e)
+
+
 
 ## Project's context
 
@@ -44,6 +48,9 @@ For us, the major challenge was to learn how to properly communicate through the
 Collaboration between the two teams was essential to ensure the project's success. Daily meetings were held to share progress, discuss encountered challenges, and align priorities. We used a project management tool, **Trello**, to track tasks and deadlines.
 
 ![Organization with Trello](/front/src/assets/images/trello.jpg "Trello")
+
+you will find here the presentation made to the rest of the class : 
+https://www.canva.com/design/DAF_ZQ2MmLs/ylGR2Mn5rbImS4vClsyiuA/edit?utm_content=DAF_ZQ2MmLs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Conclusion
 
