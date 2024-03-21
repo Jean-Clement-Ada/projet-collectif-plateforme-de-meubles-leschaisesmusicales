@@ -49,8 +49,7 @@ Collaboration between the two teams was essential to ensure the project's succes
 
 ![Organization with Trello](/front/src/assets/images/trello.jpg "Trello")
 
-you will find here the presentation made to the rest of the class : 
-https://www.canva.com/design/DAF_ZQ2MmLs/ylGR2Mn5rbImS4vClsyiuA/edit?utm_content=DAF_ZQ2MmLs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+you will find [here](https://www.canva.com/design/DAF_ZQ2MmLs/ylGR2Mn5rbImS4vClsyiuA/edit?utm_content=DAF_ZQ2MmLs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) the presentation made to the rest of the class : 
 
 # Conclusion
 
