@@ -32,7 +32,7 @@ For us, the major challenge was to learn how to properly communicate through the
 ![Architecture back](/front/src/assets/images/archi%20back.png "Archi back")
 
 - Design and development of the **RESTful API** with **Node.js** and **Express.js**.
-- Integration of a database to store product and user information with **AlwaysData**(which manages data hosting in the cloud, in the form of a **MySQL** database.), and **DBeaver** (which is a downloadable graphical interface that allows you to manage the database, visualizes it, and adds/removes tables.).
+- Integration of a database to store product and user information with **AlwaysData**(which manages data hosting in the cloud, in the form of a **MariaDB** database.), and **DBeaver** (which is a downloadable graphical interface that allows you to manage the database, visualizes it, and adds/removes tables.).
 - Features implementation such as user, product, and order management.
 
 ### Frontend:
